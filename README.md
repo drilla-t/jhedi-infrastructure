@@ -1,1 +1,1 @@
-# jhedi-infrastructure
+# jhedi-infrastructure-agent
